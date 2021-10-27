@@ -1,22 +1,15 @@
-# Machine Learning w/ R
+# Machine Learning  with R
 
+## Index
+  - [Overview](#overview) 
+  - [Getting Started](#getting-started)
+## Overview
+- I studied basic machine learning using R.
+- I implemented a movie rating classification model using the IMDB set.
+- After studying CNN using Convolution filter, I implemented a dog/cat binary classification model.
+- Finally, I implemented a model that can recognize Korean characters.
 
-
-MNIST.R
-
-IMDB.R
-
-Convolution_Filter.R
-
-Convolution_Filter_Data
-
-CNN_MNIST.R
-
-CNN_Cat_Dog.R
-
-CNN_Cat_Dog_Data
-
-CNN_Hangul.R
-
-CNN_Hangul_Data
+## Getting Started
+### Depencies
+None
 
