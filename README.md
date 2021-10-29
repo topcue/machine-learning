@@ -10,6 +10,6 @@
 - Finally, I implemented a model that can recognize Korean characters.
 
 ## Getting Started
-### Depencies
+### Dependencies
 None
 
